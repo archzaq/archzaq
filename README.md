@@ -2,14 +2,16 @@
 Jamf administrator managing macOS devices and trying to make something useful.
 
 ## Working With:
-**Languages:** Bash, PowerShell, Swift, Objective-C 
-
-**Platforms:** Jamf Pro
+**Languages:** Bash, PowerShell, Swift, Objective-C <br />
+**Platforms:** Jamf Pro, SCCM, TeamDynamix
 
 ##  Current Learning:
 - Objective-C fundamentals and basic memory management
 - macOS Foundation framework and how their APIs function
 
+## Certifications:
+- Jamf 300
+- New Horizons AZ-040T00: Automating Administration with PowerShell
 
 ---
 <p align="center">
