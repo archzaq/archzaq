@@ -1,13 +1,24 @@
 # Intro:
-Jamf administrator managing macOS devices and trying to make something useful. <br /><br />Still trying to decide between Apple Development or Digital Forensics.
+
+Jamf administrator managing enterprise macOS devices and building automation tools in an attempt to be useful.
+
+Still deciding between Apple Development or Digital Forensics.
 
 ## Working With:
-**Languages:** Bash, PowerShell, Swift, Objective-C <br />
-**Platforms:** Jamf Pro, SCCM, TeamDynamix
+**Languages:** Bash, PowerShell, Swift, Objective-C  
+**Platforms:** Jamf Pro, SCCM, TeamDynamix  
+**Tools:** CyberArk EPM, Cortex XDR, Jamf Connect, Active Directory, Okta
+
+## Current Projects:
+- Enterprise macOS automation scripts
+- Cross platform inventory and compliance reporting
+- BitLocker recovery automation and organizational auditing
+- Objective-C monitoring tools
 
 ## Currently Learning:
-- Objective-C fundamentals and basic memory management
-- macOS Foundation framework and how their APIs function
+- Objective-C fundamentals and memory management
+- macOS Foundation framework APIs
+- Jamf Pro API and automation
 
 ## Certifications:
 - Jamf 300
