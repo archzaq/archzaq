@@ -21,8 +21,9 @@ Still deciding between Apple Development or Digital Forensics.
 - Jamf Pro API and automation
 
 ## Certifications:
-- Jamf 300
-- New Horizons AZ-040T00: Automating Administration with PowerShell
+- Jamf 300 (2024)
+- New Horizons AZ-040T00: Automating Administration with PowerShell (2022)
+- CompTIA A+ (2016)
 
 ---
 <p align="center">
