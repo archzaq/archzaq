@@ -1,11 +1,11 @@
 # Intro:
-Jamf administrator managing macOS devices and trying to make something useful.
+Jamf administrator managing macOS devices and trying to make something useful. <br />Still trying to decide between the security or Apple development route.
 
 ## Working With:
 **Languages:** Bash, PowerShell, Swift, Objective-C <br />
 **Platforms:** Jamf Pro, SCCM, TeamDynamix
 
-##  Current Learning:
+## Currently Learning:
 - Objective-C fundamentals and basic memory management
 - macOS Foundation framework and how their APIs function
 
