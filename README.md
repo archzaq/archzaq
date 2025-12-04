@@ -1,5 +1,5 @@
 # Intro:
-Jamf administrator managing macOS devices and trying to make something useful. <br />Still trying to decide between the security or Apple development route.
+Jamf administrator managing macOS devices and trying to make something useful. <br /><br />Still trying to decide between the Digital Forensics or Apple Development route.
 
 ## Working With:
 **Languages:** Bash, PowerShell, Swift, Objective-C <br />
