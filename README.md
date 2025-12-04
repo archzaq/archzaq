@@ -1,3 +1,5 @@
+# Introduction:
+
 Jamf administrator managing enterprise macOS devices and building automation tools in an attempt to be useful.
 
 Still deciding between Apple Development or Digital Forensics.
