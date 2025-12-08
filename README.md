@@ -4,26 +4,26 @@ Jamf administrator managing enterprise macOS devices and building automation too
 
 Still deciding between Apple Development or Digital Forensics.
 
-## Working With:
 **Languages:** Bash, PowerShell, Swift, Objective-C  
 **Platforms:** Jamf Pro, SCCM, TeamDynamix  
 **Tools:** CyberArk EPM, Cortex XDR, Jamf Connect, Active Directory, Okta
 
-## Current Projects:
+### Current Projects:
 - Enterprise macOS automation scripts
-- Cross platform inventory and compliance reporting
-- BitLocker recovery automation and organizational auditing
+- Windows inventory reporting
+- BitLocker recovery automation and auditing
 - Objective-C monitoring tools
 
-## Currently Learning:
+### Currently Learning:
 - Objective-C fundamentals and memory management
 - macOS Foundation framework APIs
 - Jamf Pro API and automation
 
-## Certifications:
+### Certifications:
 - Jamf 300 (2024)
 - New Horizons AZ-040T00: Automating Administration with PowerShell (2022)
 - CompTIA A+ (2016)
+- TestOut: PC Pro (2016)
 
 ---
 <p align="center">
