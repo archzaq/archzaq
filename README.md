@@ -21,7 +21,7 @@ Still deciding between Apple Development or Digital Forensics.
 
 ### Certifications:
 - Jamf 300 (2024)
-- New Horizons AZ-040T00: Automating Administration with PowerShell (2022)
+- New Horizons AZ-040T00: Automating Administration with PowerShell (2023)
 - CompTIA A+ (2016)
 - TestOut: PC Pro (2016)
 
