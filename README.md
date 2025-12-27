@@ -22,7 +22,7 @@ Still deciding between Apple Development or Digital Forensics.
 ---
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zac1reeves&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zac1reeves&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=61177c&bar_color_cover=false" alt="Spotify Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zac1reeves&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=61177c&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
 </p>
 
