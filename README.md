@@ -1,6 +1,11 @@
-Security Analyst
+### Security Analyst
 
-**Languages** Bash, PowerShell, Objective-C, C
+| Language | Confidence Level |
+|---|---|
+| Bash | 7/10 |
+| PowerShell | 6/10 |
+| Objective-C | 4/10 |
+| C | 2/10 |
 
 #### Attempting to Learn:
 - C
