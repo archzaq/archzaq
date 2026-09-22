@@ -1,6 +1,6 @@
 ### Security Analyst
 
-| Language | Confidence Level |
+| Language | Quality |
 |---|---|
 | Bash | 7/10 |
 | PowerShell | 6/10 |
