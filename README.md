@@ -1,11 +1,6 @@
 ### Security Analyst
 
-| Language | Quality |
-|---|---|
-| Bash | 7/10 |
-| PowerShell | 6/10 |
-| Objective-C | 4/10 |
-| C | 2/10 |
+**Languages** Bash, PowerShell, Objective-C, C
 
 #### Attempting to Learn:
 - C
