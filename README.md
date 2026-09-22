@@ -1,8 +1,8 @@
 ### Security Analyst
 
-**Languages** Bash, PowerShell, Objective-C, C
+**Languages:** Bash, PowerShell, Objective-C, C
 
-#### Attempting to Learn:
+#### Learning:
 - C
 - Security+
 
